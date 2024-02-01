@@ -9,9 +9,13 @@ Michigan School of Information.</p>
 
 <p>Published with GoodIT '21, September 2021, Rome, Italy</p>
 
+<p>Publisher: Association for Computing Machinery (ACM)</p>
+
 <p>Resources: <a href="https://csmr.umich.edu/projects/iffy-quotient/">Iffy Quotient</a></p>
 
 <p>Special thanks to Dr. Robila and to the Iffy Quotient researchers at the University of Michigan School of Information</p>
+
+<p>© 2021 Copyright Omar Alkhalili, Dr. Stefan A. Robila. Publication rights licensed to the Association for Computing Machinery (ACM).</p>
 
 <h3>Abstract</h3>
 
