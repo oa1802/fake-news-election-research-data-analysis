@@ -3,11 +3,13 @@
 <p>This project is a collection of R programming scripts used for data analysis of Iffy Quotient (news reliability) data provided by the Center for Social Media Responsibility at the University of
 Michigan School of Information.</p>
 
-<a href="https://doi.org/10.1145/3462203.3475920">Full publication</a>
+<a href="https://doi.org/10.1145/3462203.3475920"><em>Tracking the Impact of Fake News on US Election Cycles</em> (Full publication)</a>
 
 <p>Authors: Omar Alkhalili, Dr. Stefan A. Robila</p>
 
 <p>Published with GoodIT '21, September 2021, Rome, Italy</p>
+
+<p>Resources: <a href="https://csmr.umich.edu/projects/iffy-quotient/">Iffy Quotient</a></p>
 
 <p>Special thanks to Dr. Robila and to the Iffy Quotient researchers at the University of Michigan School of Information</p>
 
