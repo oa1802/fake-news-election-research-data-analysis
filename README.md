@@ -21,4 +21,8 @@ Michigan School of Information.</p>
 
 <h4>2016-2020 Facebook and Twitter Engagement-weighted Iffy Quotient</h4>
 
-<img src="./2016-2020 Facebook and Twitter Engagement-weighted Iffy Quotient.png"/>
+<img src="./2016-2020-facebook-and-twitter-engagement-weighted-iffy-quotient.png"/>
+
+<h4>2016 and 2020 Facebook Engagement-weighted Iffy Quotient by Year</h4>
+
+<img src="./2016-and-2020-facebook-engagement-weighted-iffy-quotient-by-year.png"/>
